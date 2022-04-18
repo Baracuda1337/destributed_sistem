@@ -101,10 +101,8 @@ LOGIN ERROR (Incorect input login or password)
 -user_passwords = ['std22', 'std33', 'std44', 'std55']
 ### Приклад виконання команди:
 ```text
-20:53:44 pavlovulchak ~/DICS/IK-31_Distributed_systems/Lab2 (master) $ python3 Lab2.py
-Hello World!
 ========================================
-nput Command: list
+input Command: list
 Entered command = "list", parameters = []
 ----------------------------------------
 
